@@ -1,0 +1,43 @@
+# General use .gitignore for Minecraft modding.
+
+# Directories
+/text/
+/.gradle/
+/build/
+/eclipse
+/run/
+/out/
+/asm/
+/bin/
+/build/
+/config/
+crash-reports/
+/.idea/
+/.metadata/
+/.settings/
+/libs/
+/saves/
+/resourcepacks/
+/logs/
+/mods/
+/screenshots/
+
+# File Extensions
+*.psd
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+*.txt
+
+
+# Specific files
+RandomForgeMod.ipr
+RandomForgeMod.iml
+RandomForgeMod.iws
+Thumbs.db
+usernamecache.json
+options.txt
+.floo
+.flooignore
