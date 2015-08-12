@@ -8,10 +8,4 @@ public class Referance {
     public static final String SERVER_PROXY = "com.rockerjman222.informationOverlay.proxy.ServerProxy";
     public static final String CLIENT_PROXY = "com.rockerjman222.informationOverlay.proxy.ClientProxy";
     public static final String GUIFACTORY = "com.rockerjman222.informationOverlay.client.gui.GuiFactory";
-
-    public static boolean shouldDisplayX = false;
-    public static boolean shouldDisplayY = false;
-    public static boolean shouldDisplayFPS = false;
-    public static boolean shouldDisplayPitch = false;
-    public static boolean shouldDisplayYaw = false;
 }
