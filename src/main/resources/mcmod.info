@@ -1,0 +1,23 @@
+[  
+   {  
+      "modid":"InformationOverlay",
+      "name":"Information Overlay",
+      "description":"Adds useful information to the players hud",
+      "version":"1.0",
+      "credits":"Created by Rockerjman222",
+      "logoFile":"",
+      "mcversion":"1.8",
+      "url":"",
+      "updateUrl":"",
+      "authors":[
+         "Rockerjman222"
+      ],
+      "parent":"",
+      "screenshots":[  
+
+      ],
+      "dependencies":[
+         "mod_MinecraftForge"
+      ]
+   }
+]
